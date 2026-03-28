@@ -1,0 +1,16 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+backend/.env
+backend/test_attendance.db
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+*.log
+modelA_gituiturn*.diff
+modelB_gituiturn*.diff
